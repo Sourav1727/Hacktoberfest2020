@@ -8,6 +8,7 @@ class ArryaLists{
       city_List.add("Mumbai");
       city_List.add("Chennai");
       city_List.add("Kolkata");
+      city_List.remove(2);
       
       System.out.println("Initial ArrayList:" + city_List);
      
